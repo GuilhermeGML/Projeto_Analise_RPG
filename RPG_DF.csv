@@ -1,0 +1,51 @@
+,Sistema,Ano de lançamento,Editora,Gênero principal,Tipo de dado usado,"Tipo de mecânica (narrativa, tática, híbrida)",Nível de complexidade (baixa/média/alta),Foco narrativo (baixa/média/alta),Estilo de criação de personagem,Sistema de combate,Sistema de progressão
+0,Dungeons & Dragons 1ª Edição,1974,TSR,Fantasia,D20,Tática,Alta,Baixa,Classes rígidas,Grid e iniciativa,Níveis
+1,Dungeons & Dragons 2ª Edição,1989,TSR,Fantasia,D20,Tática,Alta,Baixa,Classes rígidas,Grid e iniciativa,Níveis
+2,Dungeons & Dragons 3ª Edição,2000,Wizards of the Coast,Fantasia,D20,Híbrida,Alta,Média,Multiclasse flexível,Grid e ataques por rodada,Níveis e talentos
+3,Dungeons & Dragons 3.5,2003,Wizards of the Coast,Fantasia,D20,Híbrida,Alta,Média,Multiclasse flexível,Grid e ataques por rodada,Níveis e talentos
+4,Dungeons & Dragons 4ª Edição,2008,Wizards of the Coast,Fantasia,D20,Tática,Alta,Baixa,Poderes por função,Estilo MMORPG,Poderes por nível
+5,Dungeons & Dragons 5ª Edição,2014,Wizards of the Coast,Fantasia,D20,Híbrida,Média,Média,Classes com subclasses,Simplificado com grid opcional,Níveis com arquétipos
+6,Pathfinder 1ª Edição,2009,Paizo,Fantasia,D20,Tática,Alta,Média,Multiclasse com talentos,Similar ao D&D 3.5,Níveis e talentos
+7,Pathfinder 2ª Edição,2019,Paizo,Fantasia,D20,Tática,Alta,Média,Sistema de feats modular,Ações por turno,Níveis e feats
+8,Tormenta20,2020,Jambô,Fantasia,D20,Híbrida,Média,Média,Classes com caminhos,Estilo D&D 5e,Níveis
+9,Tormenta RPG (3D&T base),2005,Jambô,Fantasia,D6,Híbrida,Média,Média,Tipos com perícias,Simplificado,Níveis
+10,Call of Cthulhu,1981,Chaosium,Horror,D100,Narrativa,Alta,Alta,Perícias percentuais,Sanidade e investigação,Uso de perícias
+11,GURPS,1986,Steve Jackson Games,Genérico,3d6,Híbrida,Alta,Média,Pontos em perícias e vantagens,Determinístico,Por experiência
+12,Savage Worlds,2003,Pinnacle,Genérico,Poliédricos,Híbrida,Média,Média,Atributos e vantagens,Cartas e dados,Avanço por pontos
+13,Shadowrun,1989,Catalyst Game Labs,Cyberpunk/Fantasia,D6,Híbrida,Alta,Média,Perícias e arquétipos,Ações complexas,Por karma
+14,Warhammer Fantasy Roleplay,1986,Games Workshop,Fantasia,D100,Tática,Alta,Média,Carreiras,Crítico e sangrento,Carreiras e XP
+15,Warhammer 40k: Dark Heresy,2008,Fantasy Flight,Sci-fi sombrio,D100,Tática,Alta,Baixa,Carreiras e habilidades,Letal,Experiência
+16,World of Darkness (Storyteller),1991,White Wolf,Moderno sombrio,D10,Narrativa,Média,Alta,Atributos + habilidades,Dados narrativos,Avanços por XP
+17,Vampire: A Máscara,1991,White Wolf,Terror pessoal,D10,Narrativa,Média,Alta,Clãs e disciplinas,Narrativo,XP
+18,Werewolf: O Apocalipse,1992,White Wolf,Terror espiritual,D10,Narrativa,Média,Alta,Tribos e formas,Narrativo e físico,XP
+19,Mutants & Masterminds,2002,Green Ronin,Super-heróis,D20,Tática,Alta,Média,Pontos e poderes,Combate heroico,Por PL
+20,Fate Core,2003,Evil Hat,Genérico,Fate Dice,Narrativa,Baixa,Muito alta,Aspectos e perícias,Livre e abstrato,Avanço por marcos
+21,Fate Accelerated,2013,Evil Hat,Genérico,Fate Dice,Narrativa,Baixa,Muito alta,Abordagens,Narrativo,Marcos
+22,Dungeon World,2012,Sage Kobold,Fantasia,2d6,Narrativa,Baixa,Alta,Playbooks,Moves narrativos,Avanços por experiência
+23,Monsterhearts,2012,Buried Without Ceremony,Drama adolescente,2d6,Narrativa,Baixa,Muito alta,Playbooks,Conflitos sociais,Avanços pessoais
+24,Apocalypse World,2010,Lumpley Games,Pós-apocalíptico,2d6,Narrativa,Média,Alta,Playbooks,Moves e consequências,Avanços por experiência
+25,Blades in the Dark,2017,Evil Hat,Fantasia urbana,D6,Narrativa,Média,Alta,Ladrões e gangues,Ações e stress,Desenvolvimento de crew
+26,Ironsworn,2018,Shawn Tomkin,Fantasia sombria,D6,Narrativa,Média,Alta,Votos e perícias,Moves e oráculos,Jornada pessoal
+27,Masks: A New Generation,2016,Magpie Games,Super-heróis,2d6,Narrativa,Baixa,Alta,Playbooks adolescentes,Conflito emocional,Crescimento pessoal
+28,Thirsty Sword Lesbians,2021,Evil Hat,Drama LGBTQ+,2d6,Narrativa,Baixa,Alta,Arquetipos,Emoções e relações,Conquistas e vínculos
+29,The Veil,2016,Samjoko Publishing,Cyberpunk,2d6,Narrativa,Média,Alta,Emoções e mods,Psicológico,Desenvolvimento emocional
+30,Lasers & Feelings,2013,John Harper,Sci-fi leve,D6,Narrativa,Baixa,Média,Um número define tudo,Simplificado,Narrativo
+31,Ordem Paranormal,2020,Jambô,Terror moderno,D20,Híbrida,Média,Alta,Classes e trilhas,Simplificado,Níveis
+32,Lenda de Ghanor,2017,Cellbit,Fantasia,D20,Híbrida,Média,Alta,Inspirado em D&D 5e,Narrativo,Níveis
+33,3D&T Alpha,2008,Jambô,Genérico,D6,Tática,Baixa,Média,Pontos em atributos,Simplificado,Níveis
+34,Mighty Blade,2010,Independente,Fantasia,D6,Tática,Média,Média,Classes simples,Iniciativa e ações,Níveis
+35,Defensores de Tóquio 2ª edição (DT2),1996,Trama,Paródia,D6,Tática,Média,Média,Atributos caricatos,Engraçado,XP
+36,A Bandeira do Elefante e da Arara,2015,Devir,Fantasia histórica,D20,Narrativa,Média,Alta,Origens e caminhos,Ações e perícias,Experiência
+37,UED: Você é a Resistência,2015,Universo Simulado,Pós-apocalíptico,D6,Narrativa,Média,Alta,Sobreviventes,Tático e narrativo,Narrativo
+38,Terra Devastada,2008,J.M. Trevisan,Zumbis,D6,Narrativa,Média,Alta,Livre,Letalidade alta,Survival
+39,Violentina,2011,Rodrigo Aragão,Crime estilizado,D6,Narrativa,Baixa,Alta,Estilo e exagero,Improvisado,Narrativo
+40,+2d6,2014,Independente,Genérico,2d6,Narrativa,Baixa,Média,Livre e simples,Abstrato,XP
+41,Honey Heist,2017,Grant Howitt,Comédia,D6,Narrativa,Baixa,Alta,Urso e criminoso,Um atributo só,Narrativo
+42,Cthulhu Dark,2010,Independente,Horror,D6,Narrativa,Baixa,Alta,Livre,Sanidade e horror,Narrativo
+43,Mörk Borg,2020,Stockholm Kartell,Fantasia sombria,D20,Tática,Média,Baixa,Aleatório e trágico,Letal e punitivo,Sobrevivência
+44,Troika!,2019,Melsonian Arts Council,Fantasia surreal,D6,Narrativa,Média,Alta,Backgrounds aleatórios,Sistema de iniciativa caótica,XP e caos
+45,Cairn,2021,Yochai Gal,Fantasia OSR,D20,Tática,Baixa,Média,Baseado em inventário,Letal,Exploração
+46,Into the Odd,2014,Chris McDowall,Fantasia industrial,D20,Tática,Baixa,Média,Atributos e relíquias,Simplificado e letal,Por exploração
+47,Knave,2018,Ben Milton,Fantasia OSR,D20,Tática,Baixa,Média,Sem classes,Letal e direto,Por saque e descoberta
+48,Electric Bastionland,2020,Chris McDowall,Weirdpunk,D20,Tática,Baixa,Alta,Falidos com dívida,Letal e humorado,Sobrevivência
+49,Index Card RPG,2017,Runehammer,Fantasia/Genérico,D20,Tática,Média,Média,Rápido e modular,Minimalista,Pontos de maestria

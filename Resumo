@@ -1,0 +1,54 @@
+Análise de 50 sistemas de Rpg
+
+1 Etapa - Coleta dos dados
+Pesquisei os sistemas mais famosos e outros mais variados para poder
+ter de base que tipo de análise poderia ser feita, analisando quais
+aspectos poderia usar em comum a todos para criar um DataFrame com as
+seguintes colunas:
+colunas = [
+    "Sistema",
+    "Ano de lançamento",
+    "Editora",
+    "Gênero principal",
+    "Tipo de dado usado",
+    "Tipo de mecânica (narrativa, tática, híbrida)",
+    "Nível de complexidade (baixa/média/alta)",
+    "Foco narrativo (baixa/média/alta)",
+    "Estilo de criação de personagem",
+    "Sistema de combate",
+    "Sistema de progressão"
+]
+
+2 Etapa - Criação do DF
+Com as colunas definidas comecei a coletar os dados e adicionando no
+próprio Python por meio de Listas dentro de um Lista maior para depois
+converter junto da descrição das colunas em um DF.
+
+3 Etapa - Plot de Gráficos e Análise Numérica
+Gráfico de barras: tipos de mecânica mais usados
+Gráfico de pizza: nível de complexidade
+Gráfico de barra: número de sistemas por década
+Gráfico de barras agrupadas: mecânica vs foco narrativo
+Heatmap: complexidade vs foco narrativo
+Gráfico de barras horizontais: Gêneros mais comuns
+Countplot: Tipo de dado usado
+Boxplot: Ano de lançamento vs Complexidade
+Gráfico de barras: Sistemas por estilo de criação de personagem (Top 10)
+Gráfico de barras empilhadas: Editora x Tipo de Mecânica (Top 8 editoras)
+
+4 Etapa - Resultado da Análise
+Principal foco dos Sistemas é narrativa
+Dificuldade Média de aprendizado
+2010 epoca q mais lançou rpg
+Tipo de macania  tatica foco medio, hibrida medio, narrativa alta
+Foco narrativo alto, complex média, narrativo médio complex alta, total foco narrativo complex baixa
+Principal genero Fantasia, seguido de genérico
+Quase 50% dos sistemas usam D20, segundo mais usando d6
+Sistemas antigos mais complexos
+Boa parte dos sistemas usam classes para criar pesonagens
+Jambo, wizards e Chris Mcdowall Editoras que mais publicaram
+
+
+
+
+
